@@ -33,3 +33,15 @@
     margin:auto;
     margin-top: 20%;
 }
+@media screen and (max-width : 726){
+    .menu-button{
+        border-radius: 12px;
+        background-color: #A37C43;
+        font-weight: bold;
+        display: flex;
+        margin:auto;
+        margin-top: 20%;
+        margin-bottom: 10%;
+    }
+
+}
