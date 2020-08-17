@@ -32,6 +32,9 @@
     display: flex;
     margin:auto;
     margin-top: 20%;
+    padding:  2% 3%;
+    font-size: 22px;
+
 }
 @media screen and (max-width : 726){
     .menu-button{
